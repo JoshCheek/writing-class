@@ -16,6 +16,8 @@ The second is that you drink your drink slower than the ice melts, in which case
 as they are diluted by the ice's transition to water.
 Now, you may disagree, but I don't like watered down Jameson and Ginger ale, so fuck ice.
 
+![ice clogs your mouth when you're trying to drink](https://raw.github.com/JoshCheek/writing-class/master/3-constellations-and-spirals/ice-clogs.png)
+
 But lets pretend there was merit to the assertion, lets say it does keep your drink cold... It Is Winter.
 I arrived in a flannel-lined toggle coat and cute mittens that make me look like a penguin.
 I'm not trying to cool down here, quit putting frozen shit in my drink.
@@ -28,6 +30,8 @@ You'll finish your water twice as fast because half of it is frozen.
 Then you'll have to wait a few minutes between each sip, waiting for enough ice to melt to get some semblance of satisfaction.
 Here's another thought, lets say the waiter is walking around with a pitcher of water, scanning for empty glasses.
 What is more likely to catch his eye? A glass full of ice, or a glass full of nothing?
+
+![ice gets stuck at the bottom of the glass and then breaks off like the calving face of a glacier, and just shoots all over your face](https://raw.github.com/JoshCheek/writing-class/master/3-constellations-and-spirals/ice-calving.png)
 
 Google for "ice bacteria", the fourth hit shows that the United Kingdom's Health Protection Agency took a bunch of samples and found
 unsatisfactory levels of coliform bacteria in thirty percent of them. THIRTY PERCENT.
