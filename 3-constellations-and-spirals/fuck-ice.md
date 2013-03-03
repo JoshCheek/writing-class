@@ -33,7 +33,8 @@ What is more likely to catch his eye? A glass full of ice, or a glass full of no
 
 ![ice gets stuck at the bottom of the glass and then breaks off like the calving face of a glacier, and just shoots all over your face](https://raw.github.com/JoshCheek/writing-class/master/3-constellations-and-spirals/ice-calving.png)
 
-Google for "ice bacteria", the fourth hit shows that the United Kingdom's Health Protection Agency took a bunch of samples and found
+Google for "ice bacteria", the [fourth hit](http://www.dailymail.co.uk/health/article-2036682/Chilling-truth-ice-drink-covered-bacteria.html)
+shows that the United Kingdom's Health Protection Agency took a bunch of samples and found
 unsatisfactory levels of coliform bacteria in thirty percent of them. THIRTY PERCENT.
 What else did they find? Enterococci and E.coli, where do those come from? They come from your shit.
 Ice is a dirty bacteria infested trojan horse for disease.
