@@ -37,4 +37,4 @@ Google for "ice bacteria", the [fourth hit](http://www.dailymail.co.uk/health/ar
 shows that the United Kingdom's Health Protection Agency took a bunch of samples and found
 unsatisfactory levels of coliform bacteria in thirty percent of them. THIRTY PERCENT.
 What else did they find? Enterococci and E.coli, where do those come from? They come from your shit.
-Ice is a scum-ridden bacteria infestation, a trojan horse teeming with disease.
+Ice is a scum-ridden bacteria infested trojan horse teeming with disease.
